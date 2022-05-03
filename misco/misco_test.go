@@ -3,7 +3,7 @@ package misco_test
 import (
 	"testing"
 
-	"github.io/jianzzha/hello/misco"
+	"github.com/jianzzha/gosand/misco"
 )
 
 func TestMisco(t *testing.T) {
