@@ -1,4 +1,4 @@
-package github.com/jianzzha/gosand/misco
+package misco
 
 func BestMisco() string {
 	return "cow"
